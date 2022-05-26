@@ -8,7 +8,7 @@ No termino de decidirme cual idioma cuando hago tutoriales en castellano.
 Espero que no por ello le sea díficil entender mi código.
 
 
-## Crontrato Herencia
+## Contrato Herencia
 
 El contrato herencia almacena un valor de forma clásica. 
 Pruebe a deployarlo y cambie su valor usando la función ```setValue```.
@@ -31,7 +31,7 @@ contract Herencia {
 Ningún misterio hasta aquí.
 Vamos ahora con el contrato principal para heredar éste  y acceder a el de forma clasica.
 
-### Accediendo a contrato Herencia con el contrato Principal
+### Accediendo al contrato Herencia con el contrato Principal
 
 Deploye el contrato Principal. 
 Comnprobará que hereda el contrato Herencia y lo usa como si fuese una interface.
@@ -74,7 +74,7 @@ contract Principal {
 Así ahora podrá acceder a la variable ```valorAlmacenado``` a través de la función ```getValue```, y por supuesto setear su valor con ``` saveValue ```.
 Nada nuevo espero para usted.
 
-## contrato Calculadora
+## Contrato Calculadora
 
 ```solidity
 
