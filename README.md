@@ -123,10 +123,10 @@ si disponemos de acceso.
 
 Para ver su efecto en el almacenamiento mire los getters de las variables ``` user ``` y  ``` resultadoCalculadora ``` del contrato Principal.
 Hemos comprobado antes que también están a cero los del contrato Calculadora.
-Llame ahora a la función ``` calculationWithCall ```, pasando la dirección delcontrato Calculadora y unos valores a sumar.
+Llame ahora a la función ``` calculationWithCall ```, pasando la dirección del contrato Calculadora y unos valores a sumar.
 
 Verá que se han actualizado los valores del contrato Calculadora. 
-Comprobará como la dirección en ``` user ``` del contrato Calculadora __es la dirección la del contrato Principal__.
+Comprobará como la dirección en ``` user ``` del contrato Calculadora __es la dirección del contrato Principal__.
 
 ## DelegateCall
 
