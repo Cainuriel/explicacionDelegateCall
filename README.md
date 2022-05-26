@@ -3,9 +3,9 @@
 Entender el uso de la función ```delegateCall``` puede ser al principio confuso. 
 Este repositorio pretende explicar las diferentes formas de acceder al estado de un contrato para comprenderla.
 
-Antes que nada me disculpo por el uso mezclado de variables en castellano e inglés. 
-No termino a decidirme cual idioma usar el resultado puede ser confuso.
-Espero que no por ello le sea díficil la lectura del código.
+Antes que nada me disculpo por el uso del castellano y el inglés con las variables. 
+No termino de decidirme cual idioma cuando hago tutoriales en castellano.
+Espero que no por ello le sea díficil entender mi código.
 
 
 ## Crontrato Herencia
