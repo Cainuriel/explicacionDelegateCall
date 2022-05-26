@@ -1,11 +1,11 @@
 # Explicación de la función delegateCall 
 
 Entender el uso de la función ```delegateCall``` puede ser al principio confuso. 
-Este repositorio pretende explicar las diferentes formas de acceder al estado de un contrato para comprenderla.
+En realidad, la clave está en entender las diferentes formas que tenemos en solidity para almacenar el estado de un contrato.
 
-Antes que nada me disculpo por el uso del castellano y el inglés con las variables. 
-No termino de decidirme cual idioma cuando hago tutoriales en castellano.
-Espero que no por ello le sea díficil entender mi código.
+Antes de comenzar me disculpo por el uso del castellano y el inglés en las variables. 
+No termino de decidirme cual idioma usar cuando hago tutoriales en castellano.
+Espero que no por ello les sea díficil entender mi código.
 
 
 ## Contrato Herencia
