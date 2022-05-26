@@ -34,10 +34,8 @@ Vamos ahora con el contrato principal para heredar éste  y acceder a el de form
 ### Accediendo al contrato Herencia con el contrato Principal
 
 Deploye el contrato Principal. 
-Comnprobará que hereda el contrato Herencia y lo usa como si fuese una interface.
-Ignore la variable ```resultadoCalculadora``` porque será usada más adelante.
-Verá que nos pide al deployar la dirección del contrato Herencia.
-Si me ha hecho caso lo tendrá deployado de antes, pásele la dirección.
+Hereda el contrato Herencia y verá que nos pide al deployar su dirección.
+Ignore las variables ```resultadoCalculadora``` y ```user ``` en éste momento.
 
 ```solidity
 
